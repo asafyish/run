@@ -1,6 +1,6 @@
 {
   "name": "run",
-  "version": "2.1.8-yuz.2",
+  "version": "2.1.8-yuz.3",
   "description": "Secure QuickJS-backed JavaScript runtime with host functions and continuations",
   "keywords": [
     "javascript",
@@ -56,7 +56,7 @@
     "esbuild": "^0.28.1",
     "oxfmt": "^0.41.0",
     "oxlint": "^1.56.0",
-    "quickjs-wasi": "https://github.com/asafyish/quickjs-wasi/releases/download/v3.6.2-yuz.1/quickjs-wasi-3.6.2-yuz.1.tgz",
+    "quickjs-wasi": "3.6.3",
     "tsup": "^8.5.1",
     "typescript": "5.8.3",
     "ultracite": "7.3.2",
